@@ -1,0 +1,5 @@
+storage_account_name = "mytfbackendsa"
+resource_group_name = "my-rg"
+container_name = "tfstate"
+key = "demo.terraform.tfstate"
+#environment = "usgovernment"
